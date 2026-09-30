@@ -119,6 +119,12 @@ Under Method 2, the average implied value across the three approaches is approxi
 - Excel Financial Modeling
 
 ---
+  
+## Related Project
+
+[JSW Steel_VAR_Analysis](https://github.com/utkarshmalra-svg/JSW-Steel-VAR-Analysis)
+
+---
 
 ## Disclaimer
 
