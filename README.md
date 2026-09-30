@@ -19,7 +19,7 @@ Two valuation approaches have been used:
 
 ## Excel Model
 
-The complete financial model is available here:
+The complete JSW Steel Relative Valuation model is available here:
 
 **[Download / View Excel DCF Model](JSW_Relative_Valuation.xlsx)**
 
