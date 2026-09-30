@@ -118,11 +118,11 @@ Under Method 2, the average implied value across the three approaches is approxi
 
   ---
 
-  ## Disclaimer
+## Disclaimer
 
 This project is for educational and analytical purposes only and does not constitute investment advice.
 
----
+ ---
   
 ## Author
 Utkarsh Singh Malra 
