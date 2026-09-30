@@ -90,19 +90,31 @@ Under Method 2, the average implied value across the three approaches is approxi
 - The gap narrows once JSW's strengths (scale, cost position, expansion plans) are reflected in Method 2.
 - P/BV under Method 2 (₹1,297) is very close to the market price.
 
+  ---
 
 ## Limitations
 - Small peer group with very different sizes.
 - Qualitative scores and premium per point are subjective assumptions.
 - Multiples are based on a single point in time.
 
-## Files
-- `model/` – Excel workbook with all formulas
-- `images/` – screenshots of the model
-- `docs/` – methodology notes
+  ---
 
-## Tools Used
-Microsoft Excel
+## Skills Demonstrated
 
+- Comparable Company Analysis
+- Financial Modeling
+- Weighted Average Multiples
+- Qualitative Valuation
+- Equity Valuation
+- Excel Financial Modeling
+
+  ---
+
+  ## Disclaimer
+
+This project is for educational and analytical purposes only and does not constitute investment advice.
+
+---
+  
 ## Author
 Utkarsh Singh Malra 
