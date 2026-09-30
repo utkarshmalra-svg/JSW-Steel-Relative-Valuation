@@ -65,6 +65,8 @@ The comparable-company set includes:
 ![Method 1 peer multiples](01_Comparable_Company_Analysis_Method_1.png)
 ![Method 1 valuation](02_Relative_Valuation_Method_1.png)
 
+---
+
 ### Method 2 – Weighted Average + Qualitative Adjustment
 
 1. Weight each peer's multiples by its market capitalisation.
@@ -98,14 +100,14 @@ Under Method 2, the average implied value across the three approaches is approxi
 - The gap narrows once JSW's strengths (scale, cost position, expansion plans) are reflected in Method 2.
 - P/BV under Method 2 (₹1,297) is very close to the market price.
 
-  ---
+---
 
 ## Limitations
 - Small peer group with very different sizes.
 - Qualitative scores and premium per point are subjective assumptions.
 - Multiples are based on a single point in time.
 
-  ---
+---
 
 ## Skills Demonstrated
 
@@ -116,13 +118,13 @@ Under Method 2, the average implied value across the three approaches is approxi
 - Equity Valuation
 - Excel Financial Modeling
 
-  ---
+---
 
 ## Disclaimer
 
 This project is for educational and analytical purposes only and does not constitute investment advice.
 
- ---
+---
   
 ## Author
 Utkarsh Singh Malra 
