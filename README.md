@@ -17,6 +17,14 @@ Two valuation approaches have been used:
 
 ---
 
+## Excel Model
+
+The complete financial model is available here:
+
+**[Download / View Excel DCF Model](JSW_Relative_Valuation.xlsx)**
+
+---
+
 ## Objective
 
 The objective of this analysis is to estimate the implied value of JSW Steel based on the valuation multiples observed among comparable companies.
